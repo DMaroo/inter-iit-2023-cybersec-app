@@ -47,3 +47,8 @@ is provided in a `README.md` located in the respective challenge's directory.
   **carefully**_.
 
 Happy hacking! 🚀
+
+# Update
+
+The selections have been successfully completed. Thank you to everyone who
+participated, hope you had a good time.
